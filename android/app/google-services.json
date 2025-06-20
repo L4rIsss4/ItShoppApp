@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316881141584",
+    "project_id": "itshopapp-b96b6",
+    "storage_bucket": "itshopapp-b96b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316881141584:android:70f58b019fb257b0cff655",
+        "android_client_info": {
+          "package_name": "com.example.itshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw60ix2LlqcrLS5eP2NnIgSNoFB1cLyEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
