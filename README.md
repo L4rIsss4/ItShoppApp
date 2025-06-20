@@ -1,16 +1,12 @@
-# itshop
+Bu Proje Flutter Ve Firebase Teknolojilerini Kavrama Amacıyla Yapılmıştır. 
 
-A new Flutter project.
 
-## Getting Started
+Bu Projede: 
+-Firebase entegrasyonu
+-Firebase Auth ile kayıt olma ve giriş yapma işlemleri 
+-Firebase Auth ile mail göndererek şifre sıfırlama işlemleri 
+-Clouddinary ile resim yükleyip elde edilen url bilgisinin Firebasede saklanması 
+-Admin Page ve Rol sistemi 
+- Rol sistemine göre login olma
+Mevcuttur. Sistem hala geliştirime aşamasındadır.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
