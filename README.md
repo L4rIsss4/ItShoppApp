@@ -14,6 +14,6 @@ Bu Projede:
 -Admin Page ve Rol sistemi 
 
 - Rol sistemine göre login olma
-- 
+- Bloc Pattern mimarisi
 Mevcuttur. Sistem hala geliştirime aşamasındadır.
 
